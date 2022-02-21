@@ -1,0 +1,254 @@
+State_Name,District_Name,Subdistrict Name,Facility_Type,Facility_Name,Facility_Address,Latitude,Longitude,Location_Type,Type_Of_Facility
+Goa,South Goa,Canacona,chc,Canacona CHC,NA,14.993115,74.047638,Rural,Public
+Goa,South Goa,Quepem,chc,Curchorem CHC,NA,15.25,74.1,Rural,Public
+Goa,North Goa,Satari,chc,Valpoi CHC,NA,15.529127,74.130622,Rural,Public
+Goa,North Goa,Pernem,chc,Pernem CHC,NA,15.690465,73.792968,Rural,Public
+Goa,South Goa,Salcete,dis_h,South Goa District Hospital,NA,15.279731,73.96053,Rural,Public
+Goa,North Goa,Tiswadi,dis_h,Goa Medical College Hospital,NA,15.464203,73.858606,Rural,Public
+Goa,North Goa,Bardez,dis_h,North Goa District Hospital,NA,15.5970007,73.820519,Rural,Public
+Goa,South Goa,Quepem,phc,BALI PHC,NA,15.1557,74.021213,Rural,Public
+Goa,South Goa,Salcete,phc,CHINCHINIM PHC,NA,15.214866,73.977126,Rural,Public
+Goa,South Goa,Quepem,phc,QUEPEM PHC,NA,15.2167,74.0667,Rural,Public
+Goa,South Goa,Sanguem,phc,SANGUEM PHC,NA,15.227416,74.157588,Rural,Public
+Goa,South Goa,Salcete,phc,Navelim PHC,NA,15.261603,73.956555,Rural,Public
+Goa,South Goa,Salcete,phc,CURTORIM PHC,NA,15.286398,74.024137,Rural,Public
+Goa,South Goa,Salcete,phc,Margao UHC,NA,15.294203,73.953996,Urban,Public
+Goa,South Goa,Ponda,phc,SHIRODA PHC,NA,15.319935,74.022746,Rural,Public
+Goa,South Goa,Salcete,phc,LOUTOLIM PHC,NA,15.337606,73.986852,Rural,Public
+Goa,South Goa,Mormugao,phc,CANSAULIM PHC,NA,15.34811,73.897769,Rural,Public
+Goa,South Goa,Dharbandora,phc,Dharbandora PHC,NA,15.387483,74.121292,Rural,Public
+Goa,South Goa,Mormugao,phc,CORTALIM PHC,NA,15.401964,73.906521,Rural,Public
+Goa,South Goa,Ponda,phc,PHC Ponda,NA,15.402962,74.00845,Rural,Public
+Goa,South Goa,Mormugao,phc,Vasco UHC,NA,15.406974,73.789933,Urban,Public
+Goa,South Goa,Ponda,phc,MARCAIM PHC,NA,15.420318,73.950123,Rural,Public
+Goa,North Goa,Tiswadi,phc,Mandur RHC,NA,15.45,73.916667,Rural,Public
+Goa,North Goa,Tiswadi,phc,St. Cruz Health Center,NA,15.480894,73.843483,Rural,Public
+Goa,North Goa,Tiswadi,phc,CORLIM PHC,NA,15.493982,73.9333,Rural,Public
+Goa,North Goa,Tiswadi,phc,Panaji UHC,NA,15.498059,73.827256,Urban,Public
+Goa,North Goa,Tiswadi,phc,BETKI PHC,NA,15.506909,73.989508,Rural,Public
+Goa,North Goa,Bardez,phc,CANDOLIM PHC,NA,15.514525,73.768378,Rural,Public
+Goa,North Goa,Bardez,phc,Porvorim PHC,NA,15.526049,73.831709,Rural,Public
+Goa,North Goa,Bicholim,phc,SANQUELIM PHC,NA,15.557425,74.015999,Rural,Public
+Goa,North Goa,Bicholim,phc,PHC Mayem,NA,15.574681,73.940269,Rural,Public
+Goa,North Goa,Bardez,phc,ALDONA PHC,NA,15.588626,73.876528,Rural,Public
+Goa,North Goa,Bicholim,phc,BICHOLIM PHC,NA,15.588919,73.965371,Rural,Public
+Goa,North Goa,Bardez,phc,Mapusa UHC,NA,15.59305,73.81436,Urban,Public
+Goa,North Goa,Bardez,phc,SIOLIM PHC,NA,15.613765,73.776069,Rural,Public
+Goa,North Goa,Bardez,phc,COLVALE PHC,NA,15.63522,73.824262,Rural,Public
+Goa,North Goa,Pernem,phc,CANSARVARNEM PHC,NA,15.712324,73.874667,Rural,Public
+Goa,South Goa,Mormugao,s_t_h,COTTAGE HOSPITAL,NA,15.4007,73.832585,Rural,Public
+Goa,South Goa,Ponda,s_t_h,SDH Ponda,NA,15.402962,74.00845,Rural,Public
+Goa,South Goa,Canacona,sub_cen,Loliem,NA,14.94504,74.088758,Rural,Public
+Goa,South Goa,Canacona,sub_cen,Poinguinim,NA,14.974059,74.094482,Rural,Public
+Goa,South Goa,Canacona,sub_cen,Bhatpal,NA,15.0141,74.05706,Rural,Public
+Goa,South Goa,Canacona,sub_cen,Colomb,NA,15.0141,74.05706,Rural,Public
+Goa,South Goa,Canacona,sub_cen,Cotigao,NA,15.0141,74.05706,Rural,Public
+Goa,South Goa,Canacona,sub_cen,Gaodongrem,NA,15.016401,74.135741,Rural,Public
+Goa,South Goa,Canacona,sub_cen,Agonda,NA,15.016932,74.030476,Rural,Public
+Goa,South Goa,Sanguem,sub_cen,Verlem,NA,15.046087,74.275666,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Barcem,NA,15.06114,74.047638,Rural,Public
+Goa,South Goa,Canacona,sub_cen,Cola,NA,15.077579,73.96584,Rural,Public
+Goa,South Goa,Sanguem,sub_cen,Vichundrem,NA,15.093901,74.188582,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Morpilla,NA,15.099117,74.005912,Rural,Public
+Goa,South Goa,Sanguem,sub_cen,Kurpe,NA,15.127113,74.176841,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Quitol,NA,15.13155,73.962433,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Fatorpa,NA,15.143733,73.990681,Rural,Public
+Goa,South Goa,Quepem,sub_cen,rivona,NA,15.1561224,74.1063716,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Vellim,NA,15.156477,73.966227,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Ambelim,NA,15.166857,73.980065,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Cavelossim,NA,15.179118,73.953616,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Cuncolim,NA,15.18116,73.988777,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Viroda,NA,15.193712,74.009925,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Molcarnem,NA,15.19665,74.11945,Rural,Public
+Goa,South Goa,Sanguem,sub_cen,Bati,NA,15.19665,74.11945,Rural,Public
+Goa,South Goa,Sanguem,sub_cen,Valkini,NA,15.19665,74.11945,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Carmona,NA,15.198061,73.950648,Rural,Public
+Goa,South Goa,Sanguem,sub_cen,Cottarli,NA,15.213272,74.158144,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Chinchinim,NA,15.214866,73.977126,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Sarzora,NA,15.216575,74.000633,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Deao,NA,15.216706,74.066694,Rural,Public
+Goa,South Goa,Sanguem,sub_cen,Uguem,NA,15.230145,74.188582,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Varca,NA,15.232366,73.943113,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Cotombi,NA,15.234818,74.0564439,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Guddi Paroda,NA,15.237412,74.027671,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Ambaulim,NA,15.23755,74.23914,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Talaulim,NA,15.239331,73.962433,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Dramapur,NA,15.241044,73.985941,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Xeldem,NA,15.242028,74.085449,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Curchorem,NA,15.250009,74.099991,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Cavorem,NA,15.25018,74.0574,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Navelim,NA,15.251538,73.974187,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Chandor,NA,15.253189,74.035888,Rural,Public
+Goa,South Goa,Salcete,sub_cen,St Jose de Areal,NA,15.25347,74.01371,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Nessai II,NA,15.25347,74.01371,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Kakoda,NA,15.254143,74.107846,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Dicarpale,NA,15.254563,73.996226,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Benaulim,NA,15.256832,73.930104,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Assolda,NA,15.258372,74.068199,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Raia,NA,15.26275,73.9888,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Benaulim Cana,NA,15.26469,73.92556,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Davorlim,NA,15.269851,73.991818,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Aquem Baxio,NA,15.2704306,73.9705091,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Colva,NA,15.27603,73.917325,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Periudoc,NA,15.281611,74.09272,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Seraulim,NA,15.283015,73.938921,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Macazana,NA,15.285862,74.055951,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Panchwadi,NA,15.28929,74.083986,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Betalbatim,NA,15.29875,73.921286,Rural,Public
+Goa,South Goa,Sanguem,sub_cen,Calem,NA,15.299156,74.200323,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Bandoli,NA,15.305034,74.129519,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Manora,NA,15.307284,73.9679,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Majorda,NA,15.312725,73.918346,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Nuvem,NA,15.3131,73.9496,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Rumbde Nuvem,NA,15.314567,73.954133,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Vazangal,NA,15.331207,74.040631,Rural,Public
+Goa,South Goa,Dharbandora,sub_cen,Collem,NA,15.331844,74.239942,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Paaz,NA,15.332201,74.075103,Rural,Public
+Goa,South Goa,Ponda,sub_cen,SC Vazem,NA,15.334678,74.014589,Rural,Public
+Goa,South Goa,Salcete,sub_cen,SC Loutolim,NA,15.337606,73.986852,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Codli,NA,15.338629,74.129133,Rural,Public
+Goa,South Goa,Dharbandora,sub_cen,Sigao,NA,15.339359,74.206193,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Verna,NA,15.347326,73.929586,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Nirancal,NA,15.357611,74.071584,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Velsao,NA,15.359031,73.89189,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Camurlim,NA,15.3603,73.97245,Rural,Public
+Goa,South Goa,Salcete,sub_cen,Ilha de Rachol,NA,15.3603,73.97245,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Borim,NA,15.3650506,74.0123801,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Consua,NA,15.366009,73.909528,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Wadi Talaulim,NA,15.382274,73.980775,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Quelossim,NA,15.384753,73.933543,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Sancoale,NA,15.384798,73.877274,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,SC Nagoa,NA,15.385642,73.941348,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Durgabhat,NA,15.3873799,73.9683032,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Dhavali,NA,15.390153,74.016556,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Quela,NA,15.393198,73.986504,Rural,Public
+Goa,South Goa,Mormugao,sub_cen,Naquelim Chicalim,NA,15.394858,73.838966,Rural,Public
+Goa,South Goa,Dharbandora,sub_cen,Sancorda,NA,15.397087,74.178829,Rural,Public
+Goa,South Goa,Ponda,sub_cen,St. Cruz,NA,15.399638,74.007468,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Bandora,NA,15.399652,73.967235,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Prabhunagar,NA,15.402286,74.025407,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Panditwada,NA,15.405941,74.010684,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Shahapur,NA,15.412374,73.984541,Rural,Public
+Goa,South Goa,Dharbandora,sub_cen,Nanus,NA,15.417428,74.086261,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Candepar,NA,15.424713,74.037907,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Bethoda,NA,15.4268,74.02095,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Curti Haveli,NA,15.4268,74.02095,Rural,Public
+Goa,South Goa,Dharbandora,sub_cen,Dhaushire,NA,15.42714,74.08816,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Gavnem,NA,15.430329,73.9651,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Veling,NA,15.432666,73.973608,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Priol,NA,15.4343,73.992865,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Neura,NA,15.43459,73.93915,Rural,Public
+Goa,South Goa,Dharbandora,sub_cen,Tisk Usgao,NA,15.4375375,74.0711309,Rural,Public
+Goa,South Goa,Dharbandora,sub_cen,Dharbandora,NA,15.4375375,74.0711309,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Murdi,NA,15.44631,74.031522,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Batim,NA,15.449515,73.884172,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Siridao,NA,15.450674,73.858767,Rural,Public
+Goa,North Goa,Satari,sub_cen,Melauli,NA,15.453749,74.142051,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Surla1,NA,15.45839,73.81409,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Querim,NA,15.463111,73.997104,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Borbot,NA,15.467219,73.822718,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,St. Paul,NA,15.468729,73.82201,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Pale,NA,15.470391,74.059439,Rural,Public
+Goa,South Goa,Ponda,sub_cen,Kundaim,NA,15.473865,73.97584,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Bambolim,NA,15.478799,73.861685,Rural,Public
+Goa,North Goa,Satari,sub_cen,Cotorem,NA,15.4798652,74.1445417,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Savoi verem,NA,15.480462,74.018991,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Merces,NA,15.482536,73.852458,Rural,Public
+Goa,South Goa,Canacona,sub_cen,Talpan,NA,15.4833,73.8333,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Khandola,NA,15.489191,74.000633,Rural,Public
+Goa,North Goa,Satari,sub_cen,Sirsodem,NA,15.4894,74.197388,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Chimbel,NA,15.4929,73.8639,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Bhoma,NA,15.49605,74.0046,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Orgao,NA,15.49605,74.0046,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Jua,NA,15.49605,74.0046,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Cumbarjua,NA,15.49605,74.0046,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Mangado,NA,15.499078,73.945069,Rural,Public
+Goa,North Goa,Satari,sub_cen,Advoi,NA,15.500402,74.108405,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Velguem,NA,15.501657,74.058752,Rural,Public
+Goa,North Goa,Satari,sub_cen,Velge,NA,15.5018407,74.0564409,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Ella,NA,15.502124,73.921251,Rural,Public
+Goa,North Goa,Satari,sub_cen,Surla,NA,15.502484,74.036779,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,SC Betki,NA,15.506909,73.989508,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Nerul,NA,15.509989,73.784534,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Penha de France II,NA,15.512071,73.826559,Rural,Public
+Goa,North Goa,Bardez,sub_cen,SC Candolim,NA,15.514525,73.768378,Rural,Public
+Goa,North Goa,Satari,sub_cen,Kumthal,NA,15.516415,74.202158,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Goltim,NA,15.518335,73.905458,Rural,Public
+Goa,North Goa,Satari,sub_cen,Savordem,NA,15.526137,74.16913,Rural,Public
+Goa,South Goa,Quepem,sub_cen,Sanvordem,NA,15.526137,74.16913,Rural,Public
+Goa,North Goa,Tiswadi,sub_cen,Divar,NA,15.527693,73.906588,Rural,Public
+Goa,North Goa,Satari,sub_cen,Pissurlem,NA,15.528502,74.071136,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Narva,NA,15.529961,73.926358,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Reis Magos,NA,15.53065,73.79525,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Amone,NA,15.532257,73.977556,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Penha de France I,NA,15.532787,73.82437,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Pilerne,NA,15.5333403,73.8166597,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Chorao,NA,15.536226,73.884516,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Salvador do Mundo,NA,15.540477,73.845141,Rural,Public
+Goa,North Goa,Satari,sub_cen,Velus,NA,15.541012,74.136595,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Sangolda,NA,15.5412257,73.8213133,Rural,Public
+Goa,North Goa,Bardez,sub_cen,calangute,NA,15.542554,73.762919,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Virdi,NA,15.549457,73.988199,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Socorro,NA,15.551497,73.831162,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Socorro II,NA,15.551497,73.831162,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Saligao,NA,15.55895,73.7985,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Arpora,NA,15.5590041,73.7667294,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Harvalem,NA,15.560041,74.036436,Rural,Public
+Goa,North Goa,Satari,sub_cen,Compordem,NA,15.560149,74.137974,Rural,Public
+Goa,North Goa,Satari,sub_cen,Nagargao,NA,15.561694,74.158316,Rural,Public
+Goa,North Goa,Satari,sub_cen,BAMBAR,NA,15.563978,74.180326,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Karapur,NA,15.5648641,73.9859344,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Pomburpa,NA,15.566591,73.856609,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Calvim,NA,15.5677033,73.8904138,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Guirim,NA,15.568129,73.80362,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Parra,NA,15.572842,73.785682,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Mayem,NA,15.574096,73.939962,Rural,Public
+Goa,North Goa,Satari,sub_cen,Bhironda,NA,15.57597,74.1223,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Nanoda,NA,15.576742,74.21299,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Bastora,NA,15.577187,73.828923,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Sarvan,NA,15.578419,73.977126,Rural,Public
+Goa,North Goa,Satari,sub_cen,Zormen,NA,15.578795,74.104457,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Anjuna,NA,15.5809308,73.7448377,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Moira,NA,15.581,73.83125,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Piligao,NA,15.581,73.9392,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Maulinguem,NA,15.581,73.9392,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,SC Morlem,NA,15.584515,74.059387,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Poriem,NA,15.584845,74.026136,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Verla Canca,NA,15.588062,73.784587,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Assagao,NA,15.597569,73.776777,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Bordem,NA,15.610144,73.954188,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,SC Keri,NA,15.611865,74.063793,Rural,Public
+Goa,North Goa,Bardez,sub_cen,SC Siolim,NA,15.613765,73.776069,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Assonora,NA,15.619256,73.896127,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Sodiem,NA,15.623174,73.798513,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Corjuem,NA,15.6251,73.8247,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Morjim,NA,15.6294504,73.7358273,Rural,Public
+Goa,North Goa,Satari,sub_cen,Choraundem,NA,15.637225,74.127932,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Oxel,NA,15.63765,73.8018,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Advalpal,NA,15.640229,73.894815,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Kharpal,NA,15.647726,73.937765,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Tuem,NA,15.6592572,73.8036712,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Mandrem,NA,15.662048,73.743153,Rural,Public
+Goa,North Goa,Pernem,sub_cen,sawantwada,NA,15.662048,73.743153,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Pirna,NA,15.666,73.8378,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Mulgao,NA,15.66915,73.9195,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Tivim,NA,15.67545,73.87045,Rural,Public
+Goa,North Goa,Bardez,sub_cen,Sirsaim,NA,15.67545,73.87045,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Sal,NA,15.686544,73.938911,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Kholpe,NA,15.687374,73.936005,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Arambol,NA,15.695764,73.722725,Rural,Public
+Goa,North Goa,Bicholim,sub_cen,Menkurem,NA,15.698056,73.897042,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Virnoda,NA,15.701679,73.800734,Rural,Public
+Goa,North Goa,Pernem,sub_cen,SC Palye,NA,15.705055,73.720385,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Korgao,NA,15.7094897,73.7536635,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Ibrampur,NA,15.7114399,73.9300957,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Kerim,NA,15.714603,73.694401,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Pernem,NA,15.716706,73.799994,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Assapur,NA,15.71681,73.899482,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Cansarvanem,NA,15.718399,73.8712979,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Talarna,NA,15.721116,73.905845,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Warkhand,NA,15.73835,73.83915,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Agarvado,NA,15.73835,73.83915,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Parsem,NA,15.73835,73.83915,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Tamboxem,NA,15.750031,73.848081,Rural,Public
+Goa,North Goa,Pernem,sub_cen,Torxem,NA,15.785797,73.859582,Rural,Public
